@@ -7,6 +7,8 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    base= '/Bhargava-portfolio/'
+    base: process.env.NODE_ENV === 'production'
+    ? '/Bhargava-portfolio/'
+    : '/',
   ],
 })
