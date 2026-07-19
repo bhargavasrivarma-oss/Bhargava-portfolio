@@ -1,4 +1,4 @@
-# CHEKURI SYSTEMS // 2060 PORTFOLIO
+# CHEKURI SYSTEMS // 2060 PORTFOLIO.
 
 A complete, production-ready, ultra-futuristic developer portfolio website built for **C.H.E.K.U.R.I Bhargava Sri Varma**. It is designed with visual styling mimicking neural operating systems and advanced HUD panels of the year 2060.
 
